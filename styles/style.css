@@ -179,3 +179,61 @@ opacity: 0.6;
 
 
 }
+.social-container .social-icon li{
+    list-style: none;
+   
+    
+}
+
+.social-container .social-icon{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 25px;
+   
+    
+}
+
+ .social-container #fab{
+
+width: 20px;
+height: 20px;
+font-size: 30px;
+color: white;
+background: blue;
+border: 30px;
+border-radius: 5px;
+}
+
+.social-container #twit{
+
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    color: white;
+    background: blue;
+    border: 30px;
+    border-radius: 5px;
+    }
+    .social-container #link{
+
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        /* color: white; */
+        background: whitesmoke;
+        border: 30px;
+        border-radius: 5px;
+        }
+
+        .social-container #yout{
+
+            width: 20px;
+            height: 20px;
+            font-size: 20px;
+            color: white;
+            background: blue;
+            border: 30px;
+            border-radius: 5px;
+            }
